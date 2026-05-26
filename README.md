@@ -1,10 +1,10 @@
-#Overview
+# Overview
 Projekat radjen za potrebe predmeta Distribuirani sistemi na prvoj godini Master strukovnih studija Racunarskog fakulteta.
 
-##Installation
+## Installation
 TODO: Uneti uputstvo za instalaciju
 
-##Language
+## Language
 Python
-###Libraries
+### Libraries
 pyspark
